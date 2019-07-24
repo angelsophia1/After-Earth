@@ -8,5 +8,7 @@
  Game arts and BGM are done by my other two teammates. 
  
  I have also uploaded a WebGL version to itchi.io.
+ 
+ Unity Version : 2018.3.8f1
 
 Itch.io Project Link : https://hamstersophia.itch.io/after-earth
